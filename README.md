@@ -11,5 +11,5 @@
 2. Added DOCKERFILE
 3. Added dockerignore
 4. Build and tag container image ```docker build -t buzzword:dev .```
-5. Run container image ``` docker run buzzword:dev ``` 
+5. Run created container image on port 3000 ``` docker run -p 3000:3000 buzzword:dev ``` 
 
