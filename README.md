@@ -1,4 +1,4 @@
-# Behind the buzzword docker demo November 2020
+# Behind the Buzzword Docker demo November 2020
 
 # Pre requisites
 * [Docker](https://www.docker.com/products/docker-desktop)
